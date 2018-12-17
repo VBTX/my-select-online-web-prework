@@ -10,7 +10,7 @@ def my_select(collection)
    				arr << collection[counter]
    				counter += 1
    			else
-   				puts collection[counter]
+   				
    				counter += 1
    		end
     end
