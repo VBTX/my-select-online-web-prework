@@ -13,7 +13,7 @@ def my_select(collection)
    				puts collection[counter]
    				counter += 1
    		end
+    end
    		return arr
     	end
-   end	 
- end
+   end
