@@ -12,7 +12,6 @@ def my_select(collection)
    			else
    				puts collection[counter]
    				counter += 1
-   			end
    		end
    		return arr
     	end
